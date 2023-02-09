@@ -14,7 +14,7 @@ Liquidity is an obstacle that could affect property value because matching the r
 Simplified exchange 
 The real estate industry is notorious for its slow processes, but NFTs can help to simplify and speed up these processes. Because NFTs exist on a decentralized ledger, the transaction and ownership history is accessible to everyone. Moreover, the bureaucracy and processes related to assets changing hands can be automated and maintained with the help of smart contracts — a blockchain program that automatically executes commands when conditions are met. 
 
-![Realestate NFT](./screenshots/0.gif)
+![Realestate NFT](./ezgif-1-f8f5e8a475.gif)
 
 
 ## Technology Stack & Tools
